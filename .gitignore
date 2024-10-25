@@ -1,0 +1,6 @@
+# ... other ignored files ...
+
+# Ignore .env files
+.env
+node_modules
+# ... rest of .gitignore ...
